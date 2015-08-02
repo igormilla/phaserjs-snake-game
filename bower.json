@@ -1,0 +1,25 @@
+{
+  "name": "snake-phaser-game",
+  "version": "0.0.0",
+  "description": "a simple snake game built with phaser",
+  "keywords": [
+    "gamse",
+    "phaser"
+  ],
+  "authors": [
+    "igormilla"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.1",
+    "requirejs": "~2.1.19"
+  }
+}
