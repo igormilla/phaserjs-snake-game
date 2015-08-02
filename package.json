@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "simple snake game built with phaser",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igormilla/phaserjs-snake-game.git"
+  },
   "scripts": {
     "test": "grunt dist"
   },
