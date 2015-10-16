@@ -4,7 +4,7 @@
   requirejs.config({
     baseUrl: ".",
     paths: {
-      phaser: 'phaser/dist/phaser-arcade-physics.min'
+      phaser: 'phaser/build/custom/phaser-arcade-physics.min'
     },
     shim: {
       'phaser': {
