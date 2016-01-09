@@ -23,7 +23,7 @@ define([
       var tileSize = 32;
       var mapSize = 10;
 
-      var game = new Phaser.Game(tileSize * mapSize, tileSize * mapSize, Phaser.AUTO, '');
+      var game = new Phaser.Game(tileSize * mapSize, tileSize * mapSize, Phaser.AUTO, 'snake-game');
       game.state.add('Preload', PreloadState);
       game.state.add('Boot', BootState);
       game.state.add('Game', GameState);
