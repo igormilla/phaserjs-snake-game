@@ -19,7 +19,7 @@
     "tests"
   ],
   "dependencies": {
-    "phaser": "~2.4.1",
-    "requirejs": "~2.1.19"
+    "phaser": "2.4.1",
+    "requirejs": "2.1.19"
   }
 }
