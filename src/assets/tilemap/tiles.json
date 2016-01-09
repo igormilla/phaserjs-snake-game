@@ -1,0 +1,57 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @igormilla
+ Unwatch 1
+  Star 0
+ Fork 0 igormilla/phaserjs-snake-game
+ Code  Issues 0  Pull requests 0  Pulse  Graphs  Settings
+Branch: master Find file Copy pathphaserjs-snake-game/src/assets/tilemap/tiles.json
+ecf1026  on Aug 2, 2015
+@igormilla igormilla initial commit
+1 contributor
+RawBlameHistory     39 lines (37 sloc)  986 Bytes
+{ "height":10,
+ "layers":[
+        {
+         "data":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+         "height":10,
+         "name":"backgroundLayer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"tiles.png",
+         "imageheight":32,
+         "imagewidth":128,
+         "margin":0,
+         "name":"tiles",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "version":1,
+ "width":10
+}
+Status API Training Shop Blog About Pricing
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
